@@ -83,7 +83,4 @@ This project demonstrates how **Power BI** can be used to strategically manage h
 
 ---
 
-## 📌 Author
 
-*Developed by [Your Name / Team Name]*  
-*For academic or organizational purposes*
